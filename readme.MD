@@ -35,7 +35,6 @@ module.exports = {
 }
 ```
 ### 
-Aquí tienes el contenido para un archivo README.md más formal y genérico con las instrucciones para instalar y configurar un proyecto React con Tailwind CSS, React Router y Socket.io Client:
 
 markdown
 Copy code
