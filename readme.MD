@@ -54,19 +54,7 @@ Follow these steps to set up the project:
 
 First, create a new React project using Create React App.
 
-```bash
-npx create-react-app my-app
-cd my-app
-Step 2: Install Tailwind CSS
-Install Tailwind CSS and its dependencies.
-
-bash
-Copy code
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-Configure Tailwind CSS by adding the following content to the tailwind.config.js file:
-
-javascript
+```javascript
 Copy code
 module.exports = {
   content: [
