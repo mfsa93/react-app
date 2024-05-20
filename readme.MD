@@ -34,37 +34,6 @@ module.exports = {
   plugins: [],
 }
 ```
-### 
-
-markdown
-Copy code
-# React Project with Tailwind CSS, React Router, and Socket.io Client
-
-This project is a React application configured with Tailwind CSS for styling, React Router for navigation, and Socket.io Client for real-time communication.
-
-## Prerequisites
-
-Ensure you have Node.js and npm installed on your machine. You can download them from [Node.js official website](https://nodejs.org/).
-
-## Installation
-
-Follow these steps to set up the project:
-
-### Step 1: Create a React Project
-
-First, create a new React project using Create React App.
-
-```javascript
-Copy code
-module.exports = {
-  content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
-  ],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}
 ### Add the Tailwind directives to your src/index.css file:
 
 ```css
